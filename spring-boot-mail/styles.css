@@ -1,0 +1,117 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 200px;
+	 height: 300px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 300px;
+	 z-index:1;
+} 
+
+ #Layer1 
+{ 
+	 left: 2px; 
+	 top: 1px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 300px;
+	 z-index:2;
+} 
+
+ #Logo2 
+{ 
+	 left: -148px; 
+	 top: -616px; 
+	 position: absolute; 
+	 width: 200px;
+	 height: 300px;
+	 z-index:3;
+} 
+
+ #Layer3 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 2480px;
+	 height: 3508px;
+	 z-index:4;
+} 
+
+ #Layer2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 2480px;
+	 height: 3508px;
+	 z-index:5;
+} 
+
+ #layer_39995 
+{ 
+	 left: 114px; 
+	 top: 3267px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 31px;
+	 z-index:6;
+} 
+
+ #letter147563960720 
+{ 
+	 left: 112px; 
+	 top: 3330px; 
+	 position: absolute; 
+	 width: 41px;
+	 height: 30px;
+	 z-index:7;
+} 
+
+ #web1873373960720 
+{ 
+	 left: 118px; 
+	 top: 3380px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 31px;
+	 z-index:8;
+} 
+
+ #icons8services500 
+{ 
+	 left: 117px; 
+	 top: 3424px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:9;
+} 
+
+ #layer_98010125809802042732 
+{ 
+	 left: 172px; 
+	 top: 3263px; 
+	 position: absolute; 
+	 width: 1173px;
+	 height: 207px;
+	 z-index:10;
+} 
